@@ -163,6 +163,25 @@ a {
   text-align: center;
   color: #7b7b7b;
 }
+.main-visual {
+  width: 100%;
+}
+.main-visual img {
+  width: 100%;
+}
+.img.consept-girl {
+  width: 50%;
+}
+.girl-mtg {
+  /* object-fit: contain; */
+  width: 100%;
+}
+.item-img {
+  width: 100%;
+}
+.concept-text {
+  padding: 20px;
+}
 
 
 @media screen and (max-width: 767px) {
